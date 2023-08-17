@@ -1,14 +1,12 @@
 ### Hi! 👋 I'm Daffa.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+I am an active student at STT Terpadu Nurul Fikri pursuing a degree in Information Systems with a strong interest in web development. I am dedicated to learning the latest technologies in web development and enthusiastic about creating innovative solutions that blend attractive design with reliable functionality.
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
-
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
+- 🔭 I’m currently study on <a href="https://github.com/dicodingacademy">@dicoding</a>
+- 🌱 I’m currently learning about Android 
+- 💬 Feel free to ask me about web development or Android
+- 📫 How to reach me: daffaariftamareal@gmail.com
+- ⚡ Fun fact: i love trade stocks
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -21,7 +19,7 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/daffaariftama">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
