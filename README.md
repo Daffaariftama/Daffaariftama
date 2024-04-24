@@ -2,7 +2,7 @@
 
 I am an active student at STT Terpadu Nurul Fikri pursuing a degree in Information Systems with a strong interest in web development. I am dedicated to learning the latest technologies in web development and enthusiastic about creating innovative solutions that blend attractive design with reliable functionality.
 
-- 🔭 I’m currently study on <a href="https://github.com/dicodingacademy">@dicoding</a>
+- 🔭 I’m currently study on <a href="[https://github.com/dicodingacademy](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)">@Bangkit</a>
 - 🌱 I’m currently learning about Android 
 - 💬 Feel free to ask me about web development or Android
 - 📫 How to reach me: daffaariftamareal@gmail.com
@@ -26,7 +26,5 @@ I am an active student at STT Terpadu Nurul Fikri pursuing a degree in Informati
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://linkedin.com/in/daffa-ariftama/">LinkedIn</a>
+- daffaariftamareal@gmail.com
